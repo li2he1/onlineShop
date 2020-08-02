@@ -1,10 +1,14 @@
+/Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/service/CustomerService.java
 /Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Product.java
 /Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Customer.java
 /Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/SalesOrder.java
+/Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/controller/RegistrationController.java
+/Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/dao/CustomerDao.java
 /Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/log/Logger.java
 /Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Authorities.java
 /Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/log/PaymentAction.java
 /Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/User.java
+/Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/controller/HomePageController.java
 /Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/BillingAddress.java
 /Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/ApplicationConfig.java
 /Users/li2he1/eclipse-workspace/onlineShop/src/main/java/onlineShop/Application.java
